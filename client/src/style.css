@@ -1,0 +1,406 @@
+.con{
+background-color:white;
+height: auto;
+}
+.navbar{
+    box-shadow: 4px 4px 4px black;
+    border: solid 2px white;
+    background-color:white;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    height: auto;
+    z-index: 1;
+}
+.links:hover{
+color:red;
+}
+.links{
+    color:black;
+    }
+.img{
+    width:96%;
+    max-width:96% ;
+    height: 350px;
+    margin-left: 1%;
+    position: relative;
+    cursor: pointer;
+}
+.but4{
+    width: auto;
+    height: 150px;
+}
+li{
+    list-style-type:none;
+}
+.logincard{
+    width: 50%;
+    height: auto;
+    padding: 9%;
+    margin-left: 24%;
+
+}
+.usechange{
+    color: green;
+    font-weight: 700;
+}
+.usechange:hover{
+    color: green;
+}
+a {
+    color: black;
+    text-decoration: none;
+  }
+a:hover {   
+    color: #f76767;
+    text-decoration: none;
+  }
+
+.slick-slider{
+    width:95%;
+    height: auto;
+    margin-left: 3%; 
+}
+.slick{
+    position: relative;
+    border: solid 2px white;
+    margin: 70px 0px 20px 0px;
+    padding: 10px;
+    background-color:white;
+}
+.modal123{
+    position: fixed !important;
+    top:55px !important;
+    left: 85px !important;
+    width: auto;
+}
+.modal123pro{
+    position: absolute !important;
+    top:55px !important;
+    left: 1180px !important;
+    width: auto;
+}
+.cardlink:hover{
+    color: #000000;
+    font-weight: 700;
+}
+.Gallerycard:hover{
+    box-shadow: 0 8px 6px -6px black;
+}
+.navmw{
+    width: auto;
+    height: 50px;
+    padding-left: 10px;
+    position: relative;
+    top: 15px;
+}
+.Gallerycard{
+    margin:13px 0px 13px 0px;
+}
+.gallerytext{
+    text-align: center;
+}
+
+.logos{
+    width: auto;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    padding-left: 50px;
+}
+.login{
+    width:100%;
+    height:100%;
+}
+.searchbor{
+    background-color: #e9ecef !important;
+}
+.search{
+    width: 350px !important;
+    height: 50px !important;
+    position: relative !important;
+    top: 15px !important;
+    margin-left:450px !important;
+}
+.footer123{
+    background-color: #7e7e7e2f;
+}
+.nav-bar123{
+    background-color: white;
+    box-shadow: 0px 0px 0px  #a4a4bf;
+    z-index: 1080;
+}
+.slick-dots{
+    position: relative;
+    bottom: -7px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+.slick-arrow{
+    background-color: black;
+}
+.slick-arrow:hover{
+    background-color: black;
+    border: solid 1px white;
+}
+.newcon {
+    position: relative;
+    width: 100%;
+  }
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    padding-top: 180px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #92bbc993;
+  }
+
+.addBut{
+  position:relative;
+  left:35px;
+  color:rgb(247, 103, 103);
+  background:white;
+  border:1px solid rgb(247, 103, 103);
+  border-radius:30px 2px;
+}
+
+.addBut:active{
+  position:relative;
+  left:35px;
+  color:rgb(247, 103, 103);
+  background:white;
+  border:1px solid rgb(247, 103, 103);
+  border-radius:30px 2px;
+}
+
+.addBut:hover{
+  position:relative;
+  left:35px;
+  color:white;
+  background:rgb(247, 103, 103);
+  border:1px solid rgb(247, 103, 103);
+  border-radius:30px 2px;
+}
+
+.details{
+  list-style-type: circle;
+}
+
+.highlight{
+  font-size: "15px";
+  color: gray;
+  font-weight: 700;
+}
+.cancel{
+color:red;
+font-size:20px;
+font-weight:700;
+font-variant: small-caps;
+}
+.othress{
+color:green;
+font-size:20px;
+font-weight:700;
+font-variant: small-caps;
+}
+.highlight1{
+  font-size: "15px";
+  color: #f76767;
+  font-weight: 700;
+}
+.detailName{
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.detailValue{
+  font-size: 14px;
+  color:#626262;
+}
+
+  .calprice{
+    font-size: 22px;
+    font-weight: 600;
+    margin:0px 5px;    
+    font-size: 22px;
+  }
+  .realprice{
+    text-decoration: line-through;
+    margin:0px 5px;    
+    font-size: 22px;
+  }
+  .offerprice{
+  color:orange;
+  font-size: 22px;
+  margin:0px 5px;
+}
+  
+  .newcon:hover .overlay {
+    opacity: 1;
+  }
+  .galleryimage{
+      width:100%;
+      height:300px;
+  }
+  
+  .productlink{
+    font-size:"35px";
+  }
+
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .f-overlay {
+    padding: 20px 0px 0px 20px;
+    position: absolute;
+    top: 265px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: white;
+  }
+  
+  .f-con:hover .f-overlay {
+    opacity: 1;
+  }
+  .f-but{
+    text-align:center;   
+  }
+  .f-size{
+      margin: 7px;
+  }
+.gallerytext1{
+    text-align:left;
+}
+
+
+/* radio css */
+
+.f-container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  /* Hide the browser's default radio button */
+  .f-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+  
+  /* Create a custom radio button */
+  .f-checkmark {
+    position: absolute;
+    top: 7px;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+  }
+  
+  /* On mouse-over, add a grey background color */
+  .f-container:hover input ~ .f-checkmark {
+    background-color: #ccc;
+  }
+  
+  /* When the radio button is checked, add a blue background */
+  .f-container input:checked ~ .f-checkmark {
+    background-color: white;
+    border: 4px solid #2196F3;
+  }
+  .filterCard{
+    padding:"0px";
+    margin-bottom:15px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+  }
+
+  .f-con {
+    padding: 0px;
+    margin: 0px 10px 0px 10px;
+    width: 100%;
+    box-shadow: 5px 5px 5px 3px #ccccccdc;
+  }
+
+  .unchecked{
+    position: absolute;
+    top: 7px;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+  }
+  
+  /* Create the indicator (the dot/circle - hidden when not checked) */
+  .f-checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  
+  /* Show the indicator (dot/circle) when checked */
+  .f-container input:checked ~ .f-checkmark:after {
+    display: block;
+  }
+  
+  /* Style the indicator (dot/circle) */
+  .f-container .f-checkmark:after {
+       top: 3px;
+      left: 3px;
+      width: 0px;
+      height: 0px;
+      border-radius: 50%;
+      background: white;
+  }
+  
+
+  .filters{
+    padding: 30px;
+    position: relative;
+    left: 10px;
+    border:1px solid #00000027;
+    border-radius: 3px;
+  }
