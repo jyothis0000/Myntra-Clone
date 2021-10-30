@@ -1,0 +1,2 @@
+# Myntra-Clone
+This project is a clone of Myntra web application. It has react components like header, footer, gallery and carousel. This application has features like sign-in, sign-up and JWT token. Our Myntra clone provides a better shopping experience for customers. It allows us and our vendors to sell products to millions of customers online. We provide custom and ready to go solution for our online ecommerce platform. Boost up our sales and attract customers with our Myntra clone application.
